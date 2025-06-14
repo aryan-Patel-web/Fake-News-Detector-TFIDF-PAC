@@ -18,7 +18,7 @@ Fake news detection is critical in today’s world of fast-spreading misinformat
 
 ## 📂 Dataset
 
-The model is trained on a dataset in `train.csv` with the following structure:
+The model is trained on a dataset in `news.csv` with the following structure:
 - `text`: News headlines or article snippets
 - `label`: Either `"REAL"` or `"FAKE"`
 
