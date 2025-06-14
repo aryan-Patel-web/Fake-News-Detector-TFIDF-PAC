@@ -24,11 +24,11 @@ The model is trained on a dataset in `train.csv` with the following structure:
 
 ---
 
-## 🛠️ Requirements
+🛠️ Requirements
 
 Install the required libraries using pip:
 
-```bash
+
 pip install pandas scikit-learn numpy
 📈 Model Pipeline
 Load and clean the dataset
